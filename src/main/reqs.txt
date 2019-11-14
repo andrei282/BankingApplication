@@ -1,0 +1,7 @@
+Bank application has more users(persons)
+Each person has a name, age, identifier an accounts associated
+Account can be savings account, checking account, pension account (implement interface)
+Savings account is limited to maximum withdrawal of 1000, unlimited deposit and has an interest rate per month
+Checking account has no limitations regarding withdrawal, but also has no interest per month
+Retierment account has high interest rate, but withdrawal is not permitted.
+Implement a functional banking application with the details presented above.
